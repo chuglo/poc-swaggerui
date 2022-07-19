@@ -1,0 +1,7 @@
+openapi: "3.0.0"
+
+info:
+  title: HTML Injection
+  description:
+    <h1>I can put whatever I want here!</h1>
+    <h1>Henry Smith</h1>
