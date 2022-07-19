@@ -1,0 +1,6 @@
+info:
+  title: Agora Swagger XSS
+  description:
+    <h1>Proof of Concept</h1>
+    <p>I can put whatever I want in here!</p>
+    <h1>Henry Smith</h1>
